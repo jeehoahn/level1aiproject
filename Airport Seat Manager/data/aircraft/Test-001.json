@@ -1,0 +1,166 @@
+{
+  "aircraft": {
+    "id": "TEST-001",
+    "name": "테스트 항공기"
+  },
+
+  "seat_layout": {
+    "row_count": 6,
+
+    "rows": [
+      {
+        "row": 1,
+
+        "left": [
+          {
+            "count": 2,
+            "class": 1
+          }
+        ],
+
+        "middle": [
+          {
+            "count": 4,
+            "class": 4
+          }
+        ],
+
+        "right": [
+          {
+            "count": 2,
+            "class": 1
+          }
+        ]
+      },
+
+      {
+        "row": 2,
+
+        "left": [
+          {
+            "count": 1,
+            "class": 1
+          },
+          {
+            "count": 1,
+            "class": 2
+          }
+        ],
+
+        "middle": [
+          {
+            "count": 4,
+            "class": 4
+          }
+        ],
+
+        "right": [
+          {
+            "count": 2,
+            "class": 2
+          }
+        ]
+      },
+
+      {
+        "row": 3,
+
+        "left": [
+          {
+            "count": 2,
+            "class": 2
+          }
+        ],
+
+        "middle": [
+          {
+            "count": 4,
+            "class": 3
+          }
+        ],
+
+        "right": [
+          {
+            "count": 2,
+            "class": 2
+          }
+        ]
+      },
+
+      {
+        "row": 4,
+
+        "left": [
+          {
+            "count": 2,
+            "class": 4
+          }
+        ],
+
+        "middle": [
+          {
+            "count": 4,
+            "class": 4
+          }
+        ],
+
+        "right": [
+          {
+            "count": 2,
+            "class": 4
+          }
+        ]
+      },
+
+      {
+        "row": 5,
+
+        "left": [
+          {
+            "count": 3,
+            "class": 4
+          }
+        ],
+
+        "middle": [
+          {
+            "count": 4,
+            "class": 4
+          }
+        ],
+
+        "right": [
+          {
+            "count": 3,
+            "class": 4
+          }
+        ]
+      },
+
+      {
+        "row": 6,
+
+        "left": [
+          {
+            "count": 3,
+            "class": 4
+          }
+        ],
+
+        "middle": [
+          {
+            "count": 4,
+            "class": 4
+          }
+        ],
+
+        "right": [
+          {
+            "count": 3,
+            "class": 4
+          }
+        ]
+      }
+    ]
+  }
+}

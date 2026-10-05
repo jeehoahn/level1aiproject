@@ -1,0 +1,20 @@
+{
+    "grades": [
+        {
+            "name": "일반",
+            "minMileage": 0
+        },
+        {
+            "name": "실버",
+            "minMileage": 50000
+        },
+        {
+            "name": "골드",
+            "minMileage": 100000
+        },
+        {
+            "name": "VIP",
+            "minMileage": 150000
+        }
+    ]
+}
